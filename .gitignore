@@ -1,0 +1,27 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temp and backup files
+*.tmp
+*.bak
+*.swp
+
+# Editor directories and settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment files
+.env
+
+# Build or output folders
+dist/
+build/
+
+# Node (for future use)
+node_modules/

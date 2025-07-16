@@ -57,7 +57,7 @@ Record voice/instruments and get real-time musical analysis: root note, chords, 
 
 ## 🧑‍💻 Author
 
-Made with 💛 by **Deborah**  
+Made by **Deborah**  
 GitHub: [@deboraht07](https://github.com/deboraht07)
 
 ---

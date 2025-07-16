@@ -12,7 +12,6 @@ Record voice/instruments and get real-time musical analysis: root note, chords, 
 
 👉 [https://deboraht07.github.io/swarHalel](https://deboraht07.github.io/swarHalel) 
 
-
 ---
 ##  Screenshot
 
@@ -53,7 +52,6 @@ Record voice/instruments and get real-time musical analysis: root note, chords, 
 - [ ] Mobile UI optimization
 
 ---
-
 
 ## 🧑‍💻 Author
 

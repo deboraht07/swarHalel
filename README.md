@@ -8,6 +8,21 @@ Record voice/instruments and get real-time musical analysis: root note, chords, 
 
 ---
 
+## 🌐 Live Demo
+
+👉 [https://deboraht07.github.io/swarHalel](https://deboraht07.github.io/swarHalel) 
+
+
+---
+##  Screenshot
+
+
+<img width="1772" height="810" alt="Screenshot 2025-07-16 230854" src="https://github.com/user-attachments/assets/9dbab158-b04f-4194-abe0-009b6c9d9cc1" />
+
+
+
+---
+
 ## 🎙️ Features
 - 🎤 Record voice or instrument (WAV)
 - 🔁 Playback your recordings
@@ -39,17 +54,6 @@ Record voice/instruments and get real-time musical analysis: root note, chords, 
 
 ---
 
-##  Screenshots
-
-
----
-
-## 🌐 Live Demo
-
-👉 [https://deboraht07.github.io/swarHalel](https://deboraht07.github.io/swarHalel)  
-
-
----
 
 ## 🧑‍💻 Author
 
